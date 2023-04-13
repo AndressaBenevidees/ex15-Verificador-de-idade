@@ -1,0 +1,34 @@
+@media (max-width: 500px) {
+  section {
+    width: 400px;
+    margin: auto;
+  }
+}
+
+@media (max-width: 400px) {
+  section {
+    width: 350px;
+    margin: auto;
+  }
+}
+
+@media (max-width: 414px) {
+  section {
+    width: 300px;
+    margin: auto;
+  }
+}
+
+@media (max-width: 300px) {
+  section {
+    width: 300px;
+    margin: auto;
+  }
+}
+
+@media (max-width: 360px) {
+  section {
+    width: 260px;
+    margin: auto;
+  }
+}
